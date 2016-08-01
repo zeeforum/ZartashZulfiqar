@@ -1,3 +1,3 @@
 <?php
-	define('APP_DIR', dirname(__DIR__));	//test to show Hi
+	define('APP_DIR', dirname(__DIR__));
 ?>
